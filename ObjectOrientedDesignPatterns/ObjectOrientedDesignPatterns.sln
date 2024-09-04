@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralPatterns", "ObjectOrientedDesignPatterns\BehavioralPatterns.csproj", "{91490785-4872-464F-98AC-3AB3AA0293BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPatterns", "TestPatterns\TestPatterns.csproj", "{FFFD0226-6869-4994-9F8E-F21F21AE3294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91490785-4872-464F-98AC-3AB3AA0293BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91490785-4872-464F-98AC-3AB3AA0293BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91490785-4872-464F-98AC-3AB3AA0293BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91490785-4872-464F-98AC-3AB3AA0293BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFD0226-6869-4994-9F8E-F21F21AE3294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFD0226-6869-4994-9F8E-F21F21AE3294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFD0226-6869-4994-9F8E-F21F21AE3294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFD0226-6869-4994-9F8E-F21F21AE3294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F7CE92F-F91D-41A4-B9EC-1297C2A76744}
+	EndGlobalSection
+EndGlobal
