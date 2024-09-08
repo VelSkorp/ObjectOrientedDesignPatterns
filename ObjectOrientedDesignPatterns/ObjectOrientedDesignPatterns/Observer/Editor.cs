@@ -16,5 +16,11 @@
 			Events.Notify("open", _file.Name);
 			return _file.Open(FileMode.OpenOrCreate);
 		}
+
+		public void DeleteFile()
+		{
+			Events.Notify("delete", _file.Name);
+			_file.Delete();
+		}
 	}
 }

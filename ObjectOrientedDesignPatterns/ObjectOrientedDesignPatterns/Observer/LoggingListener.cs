@@ -4,8 +4,8 @@ namespace BehavioralPatterns.Observer
 {
 	public class LoggingListener : IEventListener
 	{
-		private FileInfo _log;
-		private string _message;
+		private readonly FileInfo _log;
+		private readonly string _message;
 
 		public LoggingListener(string logFileName, string message)
 		{
