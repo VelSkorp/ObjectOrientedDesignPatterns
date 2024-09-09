@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralPatterns", "ObjectOrientedDesignPatterns\BehavioralPatterns.csproj", "{91490785-4872-464F-98AC-3AB3AA0293BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralPatterns", "ObjectOrientedDesignPatterns\BehavioralPatterns.csproj", "{91490785-4872-464F-98AC-3AB3AA0293BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPatterns", "TestPatterns\TestPatterns.csproj", "{FFFD0226-6869-4994-9F8E-F21F21AE3294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPatterns", "TestPatterns\TestPatterns.csproj", "{FFFD0226-6869-4994-9F8E-F21F21AE3294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns", "CreationalPatterns\CreationalPatterns.csproj", "{396612A5-3D43-41E0-A05A-D794EB653EA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FFFD0226-6869-4994-9F8E-F21F21AE3294}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFFD0226-6869-4994-9F8E-F21F21AE3294}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFFD0226-6869-4994-9F8E-F21F21AE3294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{396612A5-3D43-41E0-A05A-D794EB653EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396612A5-3D43-41E0-A05A-D794EB653EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396612A5-3D43-41E0-A05A-D794EB653EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396612A5-3D43-41E0-A05A-D794EB653EA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
