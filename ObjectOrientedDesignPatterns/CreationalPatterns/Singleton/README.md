@@ -4,7 +4,7 @@
 
 ## Problem
 
-The Singleton pattern solves two problems at the same time, violating the Single Responsibility Principle:
+The Singleton pattern solves two problems at the same time, violating the *Single Responsibility Principle*:
 
 1. **Ensure that a class has just a single instance.** The most common reason for this is to control access to some shared resource—for example, a database or a file.
 
@@ -33,7 +33,7 @@ Use the Singleton pattern when you need stricter control over global variables.
 
 ++ The singleton object is initialized only when it’s requested for the first time.
 
--- Violates the Single Responsibility Principle. The pattern solves two problems at the time.
+-- Violates the *Single Responsibility Principle*. The pattern solves two problems at the time.
 
 -- The Singleton pattern can mask bad design, for instance, when the components of the program know too much about each other.
 
