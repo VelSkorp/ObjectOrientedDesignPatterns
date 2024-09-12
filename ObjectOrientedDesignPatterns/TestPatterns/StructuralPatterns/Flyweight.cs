@@ -1,4 +1,3 @@
-using BehavioralPatterns.State;
 using StructuralPatterns.Flyweight;
 
 namespace TestPatterns
