@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BehavioralPatterns\BehavioralPatterns.csproj" />
     <ProjectReference Include="..\CreationalPatterns\CreationalPatterns.csproj" />
     <ProjectReference Include="..\ObjectOrientedDesignPatterns\BehavioralPatterns.csproj" />
     <ProjectReference Include="..\StructuralPatterns\StructuralPatterns.csproj" />

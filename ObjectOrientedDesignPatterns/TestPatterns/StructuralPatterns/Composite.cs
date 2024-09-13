@@ -1,6 +1,6 @@
 using StructuralPatterns.Composite;
 
-namespace TestPatterns
+namespace TestPatterns.StructuralPatterns
 {
 	[TestFixture]
 	public class CompositeTests

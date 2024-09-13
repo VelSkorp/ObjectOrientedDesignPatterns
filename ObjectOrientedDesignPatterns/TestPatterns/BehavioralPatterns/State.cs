@@ -1,6 +1,6 @@
 using BehavioralPatterns.State;
 
-namespace TestPatterns
+namespace TestPatterns.BehavioralPatterns
 {
 	[TestFixture]
 	public class StateTests

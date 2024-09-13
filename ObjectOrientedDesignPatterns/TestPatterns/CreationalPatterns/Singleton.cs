@@ -1,6 +1,6 @@
 using CreationalPatterns.Singleton;
 
-namespace TestPatterns
+namespace TestPatterns.CreationalPatterns
 {
 	[TestFixture]
 	public class SingletonTests

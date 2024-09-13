@@ -1,6 +1,6 @@
 using CreationalPatterns.AbstractFactory;
 
-namespace TestPatterns
+namespace TestPatterns.CreationalPatterns
 {
 	[TestFixture]
 	public class AbstractFactory

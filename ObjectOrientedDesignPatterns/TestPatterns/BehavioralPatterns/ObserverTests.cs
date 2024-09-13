@@ -1,6 +1,6 @@
 using BehavioralPatterns.Observer;
 
-namespace TestPatterns
+namespace TestPatterns.BehavioralPatterns
 {
 	[TestFixture]
 	public class ObserverTests

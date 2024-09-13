@@ -1,6 +1,6 @@
 using StructuralPatterns.Flyweight;
 
-namespace TestPatterns
+namespace TestPatterns.StructuralPatterns
 {
 	[TestFixture]
 	public class FlyweightTests
