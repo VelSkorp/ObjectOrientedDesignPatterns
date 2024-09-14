@@ -15,6 +15,7 @@ Below are the design patterns covered in this repository:
 1. [**Observer Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Observer/README.md)
 2. [**State Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/State/README.md)
 2. [**Template Method Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/TemplateMethod/README.md)
+2. [**Visitor Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Visitor/README.md)
 
 ### Creational Patterns
 
