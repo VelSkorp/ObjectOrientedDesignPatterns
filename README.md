@@ -18,6 +18,7 @@ Below are the design patterns covered in this repository:
 4. [**Visitor Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Visitor/README.md)
 5. [**Strategy Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Strategy/README.md)
 6. [**Memento Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Memento/README.md)
+7. [**Mediator Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Mediator/README.md)
 
 ### Creational Patterns
 
