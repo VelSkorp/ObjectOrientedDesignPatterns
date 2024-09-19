@@ -20,6 +20,7 @@ Below are the design patterns covered in this repository:
 6. [**Memento Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Memento/README.md)
 7. [**Mediator Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Mediator/README.md)
 8. [**Iterator Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Iterator/README.md)
+8. [**Command Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Command/README.md)
 
 ### Creational Patterns
 
