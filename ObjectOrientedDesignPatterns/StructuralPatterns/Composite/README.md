@@ -22,9 +22,8 @@ The greatest benefit of this approach is that you don’t need to care about the c
 
 ## Applicability
 
-Use the Composite pattern when you have to implement a tree-like object structure.
-
-Use the pattern when you want the client code to treat both simple and complex elements uniformly.
+- Use the Composite pattern when you have to implement a tree-like object structure.
+- Use the pattern when you want the client code to treat both simple and complex elements uniformly.
 
 ## Pros and Cons
 

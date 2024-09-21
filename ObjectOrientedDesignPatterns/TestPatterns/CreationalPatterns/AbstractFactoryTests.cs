@@ -3,7 +3,7 @@ using CreationalPatterns.AbstractFactory;
 namespace TestPatterns.CreationalPatterns
 {
 	[TestFixture]
-	public class AbstractFactory
+	public class AbstractFactoryTests
 	{
 		[Test]
 		public void ConcreteFactory1Test()

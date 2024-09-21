@@ -42,7 +42,7 @@ There are several options where this method could be placed. The most obvious pl
 
 ## Applicability
 
-Use the Flyweight pattern only when your program must support a huge number of objects which barely fit into available RAM.
+- Use the Flyweight pattern only when your program must support a huge number of objects which barely fit into available RAM.
 
 ## Pros and Cons
 

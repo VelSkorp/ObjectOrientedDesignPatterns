@@ -20,8 +20,8 @@ Below are the design patterns covered in this repository:
 6. [**Memento Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Memento/README.md)
 7. [**Mediator Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Mediator/README.md)
 8. [**Iterator Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Iterator/README.md)
-8. [**Command Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Command/README.md)
-8. [**Chain of Responsibility Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/ChainOfResponsibility/README.md)
+9. [**Command Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/Command/README.md)
+10. [**Chain of Responsibility Pattern**](ObjectOrientedDesignPatterns/BehavioralPatterns/ChainOfResponsibility/README.md)
 
 ### Creational Patterns
 
@@ -32,6 +32,7 @@ Below are the design patterns covered in this repository:
 
 1. [**Composite Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Composite/README.md)
 2. [**Flyweight Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Flyweight/README.md)
+3. [**Proxy Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Proxy/README.md)
 
 Each pattern is organized in its own folder with relevant code files and explanation.
 
