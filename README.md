@@ -34,6 +34,7 @@ Below are the design patterns covered in this repository:
 2. [**Flyweight Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Flyweight/README.md)
 3. [**Proxy Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Proxy/README.md)
 4. [**Facade Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Facade/README.md)
+5. [**Decorator Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Decorator/README.md)
 
 Each pattern is organized in its own folder with relevant code files and explanation.
 
