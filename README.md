@@ -36,6 +36,7 @@ Below are the design patterns covered in this repository:
 4. [**Facade Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Facade/README.md)
 5. [**Decorator Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Decorator/README.md)
 6. [**Bridge Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Bridge/README.md)
+7. [**Adapter Pattern**](ObjectOrientedDesignPatterns/StructuralPatterns/Adapter/README.md)
 
 Each pattern is organized in its own folder with relevant code files and explanation.
 
