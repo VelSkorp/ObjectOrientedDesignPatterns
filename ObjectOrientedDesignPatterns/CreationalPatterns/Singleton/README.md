@@ -21,9 +21,8 @@ If your code has access to the Singleton class, then it’s able to call the Singl
 
 ## Applicability
 
-Use the Singleton pattern when a class in your program should have just a single instance available to all clients; for example, a single database object shared by different parts of the program.
-
-Use the Singleton pattern when you need stricter control over global variables.
+- Use the Singleton pattern when a class in your program should have just a single instance available to all clients; for example, a single database object shared by different parts of the program.
+- Use the Singleton pattern when you need stricter control over global variables.
 
 ## Pros and Cons
 
