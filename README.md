@@ -28,6 +28,7 @@ Below are the design patterns covered in this repository:
 1. [**Abstract Factory Pattern**](ObjectOrientedDesignPatterns/CreationalPatterns/AbstractFactory/README.md)
 2. [**Singleton Pattern**](ObjectOrientedDesignPatterns/CreationalPatterns/Singleton/README.md)
 3. [**Prototype Pattern**](ObjectOrientedDesignPatterns/CreationalPatterns/Prototype/README.md)
+4. [**Builder Pattern**](ObjectOrientedDesignPatterns/CreationalPatterns/Builder/README.md)
 
 ### Structural Patterns
 

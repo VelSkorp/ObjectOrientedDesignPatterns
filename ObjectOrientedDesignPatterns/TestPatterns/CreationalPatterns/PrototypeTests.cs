@@ -1,5 +1,4 @@
 using CreationalPatterns.Prototype;
-using System.Data.Common;
 
 namespace TestPatterns.CreationalPatterns
 {
