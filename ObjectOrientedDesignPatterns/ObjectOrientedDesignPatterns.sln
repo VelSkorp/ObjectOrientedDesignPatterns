@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralPatterns", "Struc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralPatterns", "BehavioralPatterns\BehavioralPatterns.csproj", "{06CCAAEE-2EA4-40B9-917E-8E7D27BEA270}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSmells", "CodeSmells\CodeSmells.csproj", "{47B1FB9B-1761-4B4A-95D3-EDDB64EC9E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringTechniques", "RefactoringTechniques\RefactoringTechniques.csproj", "{F3DAFDA2-82DF-4ACE-9241-2281155AD544}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{06CCAAEE-2EA4-40B9-917E-8E7D27BEA270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06CCAAEE-2EA4-40B9-917E-8E7D27BEA270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06CCAAEE-2EA4-40B9-917E-8E7D27BEA270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B1FB9B-1761-4B4A-95D3-EDDB64EC9E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B1FB9B-1761-4B4A-95D3-EDDB64EC9E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B1FB9B-1761-4B4A-95D3-EDDB64EC9E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B1FB9B-1761-4B4A-95D3-EDDB64EC9E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DAFDA2-82DF-4ACE-9241-2281155AD544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DAFDA2-82DF-4ACE-9241-2281155AD544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DAFDA2-82DF-4ACE-9241-2281155AD544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DAFDA2-82DF-4ACE-9241-2281155AD544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
