@@ -2,6 +2,8 @@
 {
 	public class Solution
 	{
+		private string _name = "Solution";
+
 		public void PrintOwing()
 		{
 			PrintBanner();
@@ -10,8 +12,19 @@
 
 		public void PrintDetails()
 		{
-			Console.WriteLine("name: " + name);
+			Console.WriteLine("name: " + _name);
 			Console.WriteLine("amount: " + GetOutstanding());
+		}
+
+		public void PrintBanner()
+		{
+			// Some print logic
+		}
+
+		public decimal GetOutstanding()
+		{
+			// Some calculations
+			return 0;
 		}
 	}
 }
